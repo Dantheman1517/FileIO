@@ -15,7 +15,9 @@ Register the FileIO type in main.cpp
 
 **main.qml**
 Import the FileIO type
+
 Define a FileIO item
+
 Use it in other items and call its member functions
 
 
